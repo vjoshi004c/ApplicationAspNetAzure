@@ -51,8 +51,10 @@
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/">Home</a></li>
-                        <li><a runat="server" href="~/About">About</a></li>
-                        <li><a runat="server" href="~/Contact">Contact</a></li>
+                        <li><a runat="server" href="~/About">Experts</a></li>
+                        <li><a runat="server" href="~/Contact">Insights</a></li> 
+                        <li><a runat="server" href="~/About">Resources</a></li>
+                        <li><a runat="server" href="~/Contact">Our Firm</a></li>
                     </ul>
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
@@ -78,7 +80,16 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+                <h5>Copyright PIMCO 2019. All Rights Reserved. Investment Products: NOT FDIC INSURED | MAY LOSE VALUE | NOT BANK GUARANTEED.
+
+PIMCO is a trademark of Allianz Asset Management of America L.P. in the United States and throughout the world. ©2019 PIMCO
+
+Pacific Investment Management Company LLC (“PIMCO”) is an investment adviser registered with the U.S. Securities and Exchange Commission (“SEC”). PIMCO Investments LLC (“PIMCO Investments”) is a broker-dealer registered with the SEC and member of the Financial Industry Regulatory Authority, Inc. (“FINRA”). PIMCO and PIMCO Investments is solely responsible for its content. PIMCO Investments is the distributor of PIMCO investment products, and any PIMCO Content relating to those investment products is the sole responsibility of PIMCO Investments. 
+
+The information provided herein is not directed at any investor or category of investors and is provided solely as general information about our products and services and to otherwise provide general investment education. No information contained herein should be regarded as a suggestion to engage in or refrain from any investment-related course of action as none of PIMCO nor any of its affiliates is undertaking to provide investment advice, act as an adviser to any plan or entity subject to the Employee Retirement Income Security Act of 1974, as amended, individual retirement account or individual retirement annuity, or give advice in a fiduciary capacity with respect to the materials presented herein. If you are an individual retirement investor, contact your financial advisor or other fiduciary unrelated to PIMCO about whether any given investment idea, strategy, product or service described herein may be appropriate for your circumstances.
+ Check the background of this firm on FINRA's BrokerCheck.
+</h5>
+                <p>&copy; <%: DateTime.Now.Year %> -Pimco</p>
             </footer>
         </div>
     </form>
