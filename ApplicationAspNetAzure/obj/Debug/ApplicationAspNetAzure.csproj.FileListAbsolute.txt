@@ -74,6 +74,5 @@ E:\GIT_Repository\Desktop\ApplicationAspNetAzure\ApplicationAspNetAzure\bin\Micr
 E:\GIT_Repository\Desktop\ApplicationAspNetAzure\ApplicationAspNetAzure\bin\Microsoft.Owin.Security.Twitter.xml
 E:\GIT_Repository\Desktop\ApplicationAspNetAzure\ApplicationAspNetAzure\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\GIT_Repository\Desktop\ApplicationAspNetAzure\ApplicationAspNetAzure\bin\Microsoft.Owin.Security.OAuth.xml
-E:\GIT_Repository\Desktop\ApplicationAspNetAzure\ApplicationAspNetAzure\obj\Debug\ApplicationAspNetAzure.csprojResolveAssemblyReference.cache
 E:\GIT_Repository\Desktop\ApplicationAspNetAzure\ApplicationAspNetAzure\obj\Debug\ApplicationAspNetAzure.dll
 E:\GIT_Repository\Desktop\ApplicationAspNetAzure\ApplicationAspNetAzure\obj\Debug\ApplicationAspNetAzure.pdb
